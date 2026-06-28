@@ -1,0 +1,8 @@
+{
+  "backend": "LXI/VXI",
+  "visa_resource": "",
+  "vxi11_ip": "192.168.1.10",
+  "gpib_addr": "1",
+  "serial_number": "2824AXDEVS",
+  "user_note": "test bottom meter"
+}
