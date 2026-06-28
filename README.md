@@ -1,6 +1,6 @@
 # Quick diagnost tool for HP/Agilent/Keysight 3458A multimeters
 
-This repository contant Python application that can be used to troubleshoot and perform tools for 3458A.
+This repository demonstrate Python application that can be used to troubleshoot and perform tools for 3458A.
 It is created to support public guide about this meters available from [xDevs.com lab](https://xdevs.com/).
 Guide is available [here](https://xdevs.com/guide/life_with_3458/).
 
